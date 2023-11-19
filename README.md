@@ -1,5 +1,5 @@
 <h3>Landing Page with Static Navbar and Responsive Design</h3>
-<p>This landing page template is designed to create a sleek and professional webpage with a fixed navigation bar and responsiveness for various devices. Below are the key components and guidelines to use this template effectively.</p>
+<p>This landing page template is designed to create a sleek and professional webpage with a fixed navigation bar and responsiveness for various devices.</p>
 <p><a href="https://shikhasharma1111.github.io/Startup_Landing_Page/">Visit here !</a> to see the page.</p>
 
 <h4>Features:</h4>
